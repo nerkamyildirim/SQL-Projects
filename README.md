@@ -1,5 +1,4 @@
 # SQL-Projects
-Compilation of SQL Projects
 
 # Project 1: What and Where Are the World's Oldest Businesses?
 * Queried into world's businesses data
